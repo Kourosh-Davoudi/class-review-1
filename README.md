@@ -1,14 +1,11 @@
-## Copy File programs
+## Class Review 1
 
 Learning outcomes highlights: 
-- using command line arguments
-- file operations
+- implementing member functions
+- implementing friend function
+- overloading operators
 
-**Problem:** Write a program to get the two file names as command-line arguments and create/copy the first file contents to the second file. The name of the program is mycp.cpp, so the execution should be like:
-
-./mycp file1 file2 (create file 2 and copy file1 contents to the file 2)
-
-your program should check if a user provided enough arguments and print an appropriate message.
+**Problem:** The Circle class is implemented to hold a circle information. The constructor job is to initialize the objects of the class. Read the program carefully and write appropriate statements as described by comments.
 
 ```C++
 #include <iostream>
