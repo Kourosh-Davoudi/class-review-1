@@ -2,7 +2,7 @@
 
 Learning outcomes highlights: 
 - implementing member functions
-- implementing friend function
+- implementing friend functions
 - overloading operators
 
 **Problem:** The Circle class is implemented to hold a circle information. The constructor job is to initialize the objects of the class. Read the program carefully and write appropriate statements as described by comments.
